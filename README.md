@@ -17,7 +17,7 @@ In this project, I explored how to extract insights from a DynamoDB table. While
 ---
 
 ## Documentation  
-📸 Check out my full documentation below for detailed steps and insights on working with DynamoDB: [[AWS DynamoDB.pdf](https://github.com/user-attachments/files/18590044/AWS.DynamoDB.pdf)
+📸 Check out my full documentation for detailed steps and insights on working with DynamoDB here ->: [[AWS DynamoDB.pdf](https://github.com/user-attachments/files/18590044/AWS.DynamoDB.pdf)
 ]
 
 ---
