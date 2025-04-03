@@ -1,4 +1,4 @@
-# AWS-DynamoDB-Project
+# AWS-DynamoDB-Project-With-CLI
 # 🤖 Getting Insights from a DynamoDB Table
 
 ---
