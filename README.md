@@ -33,5 +33,5 @@ Feel free to check out my other projects or connect with me on **[LinkedIn](http
 
 ---
 
-## Hashtags  
+##  
 #AWS #CloudComputing #RDS #QuickSight #TechLearning #LearnInPublic
